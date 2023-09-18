@@ -1,0 +1,1 @@
+currently doing -> create my_mlx_pixel_put function

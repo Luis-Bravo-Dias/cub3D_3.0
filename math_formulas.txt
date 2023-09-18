@@ -1,0 +1,2 @@
+deltaDistX = sqrt(1 + (rayDirY * rayDirY) / (rayDirX * rayDirX)) <=> deltaDistX = abs(|rayDir| / rayDirX)
+deltaDistY = sqrt(1 + (rayDirX * rayDirX) / (rayDirY * rayDirY)) <=> deltaDistY = abs(|rayDir| / rayDirY)
